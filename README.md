@@ -1,7 +1,6 @@
 # youzan
 
-> 
-
+> 个人练习的小项目
 ## Build Setup
 
 ``` bash
